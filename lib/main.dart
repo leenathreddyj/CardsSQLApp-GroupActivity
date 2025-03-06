@@ -1,4 +1,4 @@
-//Venkata Saillenath Reddy Jampala
+//Venkata Saileenath Reddy Jampala and Hassan Coulibaly
 import 'package:flutter/material.dart';
 import 'database_helper.dart';
 import 'cards_screen.dart';
